@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-x5gjb",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-x5gjb.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-x5gjb/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-x5gjb#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-x5gjb": "^1.0.0"
+    }
+}
